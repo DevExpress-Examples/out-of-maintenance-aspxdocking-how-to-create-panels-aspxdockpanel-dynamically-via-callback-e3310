@@ -4,8 +4,7 @@ Imports System.Collections.Generic
 Imports System.Web
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
-Imports DevExpress.Web.ASPxClasses
-Imports DevExpress.Web.ASPxDocking
+Imports DevExpress.Web
 Imports System.Web.UI.HtmlControls
 
 Partial Public Class _Default
